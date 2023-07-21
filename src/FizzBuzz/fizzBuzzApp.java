@@ -26,7 +26,6 @@ public class fizzBuzzApp {
 
             System.out.println(","+" ");
 
-            sc.close();
         }
 
     }
