@@ -12,7 +12,9 @@ public class palindrome {
         input.close();
 
         if(isPalindrome(n)) {
-
+            System.out.println(n + " is palindrome");
+        } else {
+            System.out.println(n + " is not palindrome");
         }
 
     }
