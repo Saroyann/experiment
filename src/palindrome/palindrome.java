@@ -22,6 +22,10 @@ public class palindrome {
     public  static boolean isPalindrome(int number) {
         int originalNumber = number;
         int reverseNumber = 0;
+
+        while(number > 0) {
+
+        }
     }
 
 }
