@@ -24,6 +24,7 @@ public class palindrome {
         int reverseNumber = 0;
 
         while(number > 0) {
+            int digit = number % 10;
 
         }
     }
