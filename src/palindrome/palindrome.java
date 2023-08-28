@@ -14,9 +14,9 @@ public class palindrome {
         }
         if(temp==sum) {
             System.out.println("palindrome number");
-            else {
-                System.out.println("not palindrome");
-            }
+
+        }else {
+            System.out.println("not palindrome");
         }
     }
 
