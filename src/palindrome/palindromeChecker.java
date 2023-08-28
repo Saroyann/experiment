@@ -13,7 +13,9 @@ public class palindromeChecker {
 
         if(isPalindrome(n)) {
             System.out.println(n + " is palindrome");
-        } else {
+        }else if(n < 0) {
+            System.out.println("i can't do palindrome on negative number bro");
+        }else {
             System.out.println(n + " is not palindrome");
         }
 
