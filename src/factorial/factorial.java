@@ -10,10 +10,14 @@ public class factorial {
         int number = input.nextInt();
         input.close();
         int i,fact = 1;
-
-        for (i = 1 ; i <= number ; i++) {
-            fact = fact*i;
+        try {
+            for (i = 1 ; i <= number ; i++) {
+                fact = fact*i;
+            }
+            System.out.println("factorial of " + number + " is" + fact);
+        } catch (Exception e) {
+            System.out.println("excection error");
         }
-        System.out.println("factorial of " + number + " is" + fact);
+
     }
 }
