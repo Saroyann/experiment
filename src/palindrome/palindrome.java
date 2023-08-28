@@ -11,6 +11,9 @@ public class palindrome {
         int n = input.nextInt();
         input.close();
 
+        if(isPalindrome(n)) {
+
+        }
 
     }
 
