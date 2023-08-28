@@ -4,7 +4,7 @@ public class palindrome {
 
     public static void main(String[] args) {
         int r,sum = 0,temp;
-        int n = 500; // check the number palindrome
+        int n = 100; // check the number palindrome
 
         temp = n;
         while(n>0) {
