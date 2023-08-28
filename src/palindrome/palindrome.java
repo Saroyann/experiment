@@ -19,8 +19,10 @@ public class palindrome {
 
     }
 
+    public  static boolean isPalindrome(int number) {
+
+    }
+
 }
 
-public  static boolean isPalindrome(int number) {
 
-        }
