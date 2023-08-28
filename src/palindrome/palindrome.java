@@ -9,7 +9,7 @@ public class palindrome {
 
         System.out.println("enter the number palindrome:");
         int n = input.nextInt();
-
+        input.close();
     }
 
 
