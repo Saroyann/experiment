@@ -16,7 +16,7 @@ public class factorial {
             }
             System.out.println("factorial of " + number + " is" + fact);
         } catch (Exception e) {
-            System.out.println("excection error");
+            System.out.println("something went wrong");
         }
 
     }
