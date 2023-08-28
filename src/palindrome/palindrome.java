@@ -21,4 +21,6 @@ public class palindrome {
 
 }
 
+public  static boolean isPalindrome(int number) {
 
+        }
