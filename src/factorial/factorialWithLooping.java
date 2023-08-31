@@ -1,8 +1,7 @@
 package factorial;
-
 import java.util.Scanner;
 
-public class factorial {
+public class factorialWithLooping {
     public static void main(String[] args) {
 
         //with looping
