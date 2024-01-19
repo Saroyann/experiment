@@ -31,6 +31,7 @@ public class palindromeChecker {
             number /= 10;
         }
         return  originalNumber == reverseNumber;
+        //njir
     }
 
 }
